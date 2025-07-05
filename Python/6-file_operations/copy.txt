@@ -1,0 +1,5 @@
+Hello python!
+Apple is a faang company
+First line
+second line
+third line

@@ -1,0 +1,5 @@
+2025-05-29 20:44:52-module1-DEBUG-This is a debug message from module1
+2025-05-29 20:45:12-module1-DEBUG-This is a debug message from module1
+2025-05-29 20:45:12-module2-WARNING-This is a warning message from module1
+2025-05-29 20:45:30-module1-DEBUG-This is a debug message from module1
+2025-05-29 20:45:30-module2-WARNING-This is a warning message from module2

@@ -1,0 +1,37 @@
+[
+    {
+        "ID":1,
+        "Name":"Alice Johnson",
+        "Age":29,
+        "Department":"Engineering",
+        "Salary":75000
+    },
+    {
+        "ID":2,
+        "Name":"Bob Smith",
+        "Age":35,
+        "Department":"Marketing",
+        "Salary":68000
+    },
+    {
+        "ID":3,
+        "Name":"Charlie Lee",
+        "Age":41,
+        "Department":"Finance",
+        "Salary":82000
+    },
+    {
+        "ID":4,
+        "Name":"Diana Patel",
+        "Age":26,
+        "Department":"Design",
+        "Salary":62000
+    },
+    {
+        "ID":5,
+        "Name":"Ethan Brown",
+        "Age":33,
+        "Department":"Engineering",
+        "Salary":79000
+    }
+]
