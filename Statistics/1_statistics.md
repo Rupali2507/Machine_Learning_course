@@ -1,5 +1,5 @@
 ```
-Statistics is a field that deals with collector, organization, analysis, interpretation and presentation of he data.
+Statistics is a field that deals with collector, organization, analysis, interpretation and presentation of the data.
 
 It helps in decision making
 
